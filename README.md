@@ -26,7 +26,7 @@ Time spent: **7** hours spent in total
 <img src="https://github.com/adprestone/Flixster/blob/master/Flixster.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Encountered problems with viewing the content.
 
 ### Open-source libraries used
 
