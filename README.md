@@ -23,7 +23,7 @@ Time spent: **7** hours spent in total
 
 ### App Walkthough GIF
 
-//<img src="https://github.com/adprestone/Flixster/blob/master/Flixster.gif" width=250><br>
+<img src="https://github.com/adprestone/Flixster/blob/master/Flixster.gif" width=250><br>
 
 ### Notes
 Encountered problems with viewing the content.
