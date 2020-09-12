@@ -21,19 +21,6 @@ Time spent: **7** hours spent in total
 - [x] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [x] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
-### App Walkthough GIF
-
-<img src="https://github.com/adprestone/Flixster/blob/master/Flixster.gif" width=250><br>
-
-### Notes
-Encountered problems with viewing the content.
-
-### Open-source libraries used
-
-- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Androids
-
-
 
 ## Flix Part 2
 
@@ -60,7 +47,7 @@ Time spent: **5** hours spent in total
 ### App Walkthough GIF
 
 
-<img src=" https://github.com/adprestone/Flixster2/blob/master/Flixster2.gif" width=250><br>
+<img src="https://github.com/adprestone/Flixster2/blob/master/Flixster2.gif" width=250><br>
 
 ### Notes
 
